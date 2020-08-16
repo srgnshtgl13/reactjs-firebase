@@ -8,7 +8,7 @@
   // Your web app's Firebase configuration
   var firebaseConfig = {
     apiKey: "key",
-    authDomain: "domaim",
+    authDomain: "domain",
     databaseURL: "url",
     projectId: "id",
     storageBucket: "storageBucket",
