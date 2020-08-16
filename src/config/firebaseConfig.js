@@ -7,14 +7,14 @@
   import 'firebase/auth';   // we will use this when we work with authentication
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyBbpkXOj0aQBa0BCEXSYH6Hdo7AA7GzzKc",
-    authDomain: "reactjs-marioplan-1dd37.firebaseapp.com",
-    databaseURL: "https://reactjs-marioplan-1dd37.firebaseio.com",
-    projectId: "reactjs-marioplan-1dd37",
-    storageBucket: "reactjs-marioplan-1dd37.appspot.com",
-    messagingSenderId: "36925619442",
-    appId: "1:36925619442:web:876cf3084b2ad69e33a46b",
-    measurementId: "G-YTX8GS22YT"
+    apiKey: "key",
+    authDomain: "domaim",
+    databaseURL: "url",
+    projectId: "id",
+    storageBucket: "storageBucket",
+    messagingSenderId: "13",
+    appId: "appId",
+    measurementId: "test"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
